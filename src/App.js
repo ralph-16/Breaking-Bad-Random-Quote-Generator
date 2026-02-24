@@ -28,7 +28,7 @@ function QuoteBox() {
   const [author, setAuthor] = useState("");
 
   async function getRandomQuote() {
-    const response = await fetch("https://api.breakingbadquotes.xyz/v1/quotes");
+    const response = await fetch("https://zenquotes.io/api/random");
     const data = await response.json();
     console.log(data);
   }
