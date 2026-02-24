@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad-Random-Quote-Generator/static/css/main.bb158a21.css",
+    "main.js": "/Breaking-Bad-Random-Quote-Generator/static/js/main.f9e33519.js",
+    "static/js/453.ad060e1f.chunk.js": "/Breaking-Bad-Random-Quote-Generator/static/js/453.ad060e1f.chunk.js",
+    "index.html": "/Breaking-Bad-Random-Quote-Generator/index.html",
+    "main.bb158a21.css.map": "/Breaking-Bad-Random-Quote-Generator/static/css/main.bb158a21.css.map",
+    "main.f9e33519.js.map": "/Breaking-Bad-Random-Quote-Generator/static/js/main.f9e33519.js.map",
+    "453.ad060e1f.chunk.js.map": "/Breaking-Bad-Random-Quote-Generator/static/js/453.ad060e1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb158a21.css",
+    "static/js/main.f9e33519.js"
+  ]
+}
