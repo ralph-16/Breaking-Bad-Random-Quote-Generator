@@ -30,8 +30,7 @@ function QuoteBox() {
   async function getRandomQuote() {
     const response = await fetch("https://api.breakingbadquotes.xyz/v1/quotes");
     const data = await response.json();
-    setQuote(data[0].quote);
-    setAuthor("-" + data[0].author);
+    console.log(data);
   }
 
   useEffect(() => {
